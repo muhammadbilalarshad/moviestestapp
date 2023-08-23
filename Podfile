@@ -6,6 +6,7 @@ target 'MoviesTestApp' do
   use_frameworks!
 
 	pod 'Alamofire', '~> 4.9.1'
+  pod 'SwiftyJSON'
 
   # Pods for MoviesTestApp
 
